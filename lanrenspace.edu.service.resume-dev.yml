@@ -3,9 +3,9 @@ spring:
     name: lanrenspace.edu.service.resume
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: ENC(5CZkguuFOGXheF+G2rIChM7XVkBXSISZTTFy0JYJbk5mQw0lm813f+3gwIW6DAA240mIn2TCzX/Or4rAy2Wg5m3+BzSZj4VUx/oacyCAbrMKkwcjIb++/zYMcngm9T8J)
-    username: ENC(4HgajeSS0RdXSoh6sHT2Pg==)
-    password: ENC(/b/ZHuDCm0r/p5O3NlpR3g==)
+    url: ENC(DWxYK9F6lsGca3r9xSBxPVBDZxlxAC4bgmN87YpOQApVFSsO9paPyoZioQ4CKhJlECa1Y4wyCb8/e0ZiyYm1fDtr98A+48yzXXC4Puq+k66c4M6cELxFs6Y+qVr9SyL4v9SZCAVfXFt2ZTm5mdF1oXcK4GfJszRphpuRTvBcdLU=)
+    username: ENC(wRVfiDaDJ/t0sBi3hT0IBkRgxrjZa83FTmub8O8SjtfpHp3odrxJdA3DXIgLjdhW)
+    password: ENC(cSuSxF2uJ6YLBuDrhr6ydJtMHH4PhfTI1O+1rEdli/v1cG4AkP9hO1NL2SpjStoA)
     jpa:
       database: MySQL
       show-sql: true
